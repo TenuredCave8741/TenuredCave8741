@@ -7,7 +7,7 @@ HELLO
 
 - 🔭 I’m currently working on 🤫 
 - 🌱 I’m currently learning C++ && Reverse engeneering
-- 📫 How to reach me on discord: (https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/744b49fa-b980-45ef-bb21-8d2456a551bd) tc841 (https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/744b49fa-b980-45ef-bb21-8d2456a551bd)
+- 📫 How to reach me on discord: https://www.iloveimg.com/download/3zjbAfhqfdA3rcx6gvm7xpj7l95A7zzx0ckjrc7fwAs0zAljh1AA6m57gx021vn0yh4h0m199yhyg85k5rz2179yvznld572lryqgtqjb4xs5qp3t2hr03ys78w83Amlt3f089jr7qhz60fxd5jqwz5tk0k1dg3yggsf9sr4Asdqx6kcpk31/10 tc841 https://www.iloveimg.com/download/3zjbAfhqfdA3rcx6gvm7xpj7l95A7zzx0ckjrc7fwAs0zAljh1AA6m57gx021vn0yh4h0m199yhyg85k5rz2179yvznld572lryqgtqjb4xs5qp3t2hr03ys78w83Amlt3f089jr7qhz60fxd5jqwz5tk0k1dg3yggsf9sr4Asdqx6kcpk31/10
 
 <!-- - 😄 Pronouns: -->!
 
