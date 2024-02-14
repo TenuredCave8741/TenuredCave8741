@@ -11,13 +11,13 @@ WELCOME TO MY PROFILE
   -  ![download-removebg-preview (1)](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/f4d9835a-7847-43ff-be2e-980d5c589b1a)
 
 
-- 📫 How to reach me:
+- 📫 How to contact me:
     - ![discord-logo (1) (1)](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/8360b3fc-0e65-4a1b-bd46-72ecffaaf66d) tc841 
  
 
 
 
-<!-- - 😄 Pronouns: -->!
+<!-- - 😄 Pronouns: -->
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 👯 I’m looking to collaborate on -->
 <!-- 🤔 I’m looking for help with -->
