@@ -4,6 +4,9 @@ WELCOME TO MY PROFILE
 **TenuredCave8741/TenuredCave8741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
 -->
 <!-- Here are some ideas to get you started: -->
+- 🧑🏼‍💻 About me
+  - ![image](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/d00883a4-a866-4016-99c8-12317b06a32e)
+
 - 🕸️ My [webpage](http://tenuredcave8741.github.io/)
 - 🔭 I’m currently working on 🤫
 - 🌱 I’m currently learning
