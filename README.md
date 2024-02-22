@@ -5,7 +5,7 @@ WELCOME TO MY PROFILE
 -->
 <!-- Here are some ideas to get you started: -->
 - 🕸️ My [webpage](http://tenuredcave8741.github.io/)
-- 🔭 I’m currently working on || 🤫 ||
+- 🔭 I’m currently working on 🤫
 - 🌱 I’m currently learning
   - ![ISO_C++_Logo svg](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/33405ccb-e1fc-4180-8876-587b0f3f7a06)
   -  ![download-removebg-preview (1)](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/f4d9835a-7847-43ff-be2e-980d5c589b1a)
