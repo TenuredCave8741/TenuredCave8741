@@ -5,7 +5,8 @@ WELCOME TO MY PROFILE
 -->
 <!-- Here are some ideas to get you started: -->
 - 🧑🏼‍💻 About me
-  - ![Bandera_de_España svg](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/d5b69203-3bd6-4a6c-af99-b7c13e31a125)
+  - Made in ![Bandera_de_España svg](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/d5b69203-3bd6-4a6c-af99-b7c13e31a125)
+  - 🖥❤️
 
 
 - 🕸️ My [webpage](http://tenuredcave8741.github.io/)
