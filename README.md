@@ -10,12 +10,10 @@
   - 🖥️ OS i usually use ![Tux svg (1) (1)](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/d9d211da-0b4b-459c-8d82-7ae993d06c94)![1497553295-102_84846](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/124c8740-1347-43f1-9ced-cbd46b003b0f)
   
 - 👾 Games i love
-  - 
 ![lol-logo](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/dce1d962-396b-421d-bf53-05263c8a9977)
 ![CSGO-Symbol](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/d1a33dca-00ef-4670-9ae3-1281234dd25e)
 ![download](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/96269f86-9c6b-4341-b981-57bafb304d9d)
 ![kisspng-grand-theft-auto-v-grand-theft-auto-san-andreas-g-gta-5abe76af47e7d8 8433946015224316632945-removebg-preview (1)](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/685f8c5f-7795-4bde-8583-ed349056c66b)
-
 
 - 🕸️ My [webpage](http://tenuredcave8741.github.io/)
   
@@ -29,16 +27,13 @@
   -  ![Tux svg (1) (1)](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/d9d211da-0b4b-459c-8d82-7ae993d06c94) <========80%==>
   -  ![307313344-f96c88f4-32b5-4767-9037-9fa3848b3889](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/20638427-f764-46a2-954a-1ca05737dfe4) <=========90%=>
   -  
-
-
-
   
 - 🌻 I’m currently learning
   - ![ISO_C++_Logo svg](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/33405ccb-e1fc-4180-8876-587b0f3f7a06)
   - ![download-removebg-preview (1)](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/f4d9835a-7847-43ff-be2e-980d5c589b1a)
 
 - 🌱 Stuff i want to learn
-  - 
+  - ![Python-logo-notext svg](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/cb401f45-a0d1-46a3-90a8-4269396ef632)
 
 - 📫 How to contact me:
     - ![discord-logo (1) (1)](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/8360b3fc-0e65-4a1b-bd46-72ecffaaf66d) tc841
