@@ -12,12 +12,12 @@
   - ❤️![Tux svg (1) (1)](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/d9d211da-0b4b-459c-8d82-7ae993d06c94)
 
 - 🕸️ My [webpage](http://tenuredcave8741.github.io/)
+  
 - 🔭 I’m currently working on 🤫
+  
 - 🌱 I’m currently learning
   - ![ISO_C++_Logo svg](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/33405ccb-e1fc-4180-8876-587b0f3f7a06)
   -  ![download-removebg-preview (1)](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/f4d9835a-7847-43ff-be2e-980d5c589b1a)
-
-- About me- 
 
 - 📫 How to contact me:
     - ![discord-logo (1) (1)](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/8360b3fc-0e65-4a1b-bd46-72ecffaaf66d) tc841
