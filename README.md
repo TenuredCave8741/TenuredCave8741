@@ -24,7 +24,8 @@
   -  ![Blender_logo_no_text svg](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/07ccb7e4-c9e2-4046-a568-d05911722f12) <=====50%=====>
   -  ![monochrome_light](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/680ac331-8b9e-4088-bf46-9e4e8bb60461) <=======70%===>
   -  ![logo-2582747_960_720 (1)](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/aa80f5d0-3c44-4da5-b3c4-ee4daeed890c) <=======70%===>
-  -  ![kisspng-web-development-web-hosting-service-web-design-int-dairy-farm-5b39a59aa0f895 5616171815305046026594](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/b877762d-c5f9-4d1c-a1e9-b14994fc4911) <========80%==>
+  -  ![kisspng-web-development-web-hosting-service-web-design-int-dairy-farm-5b39a59aa0f895 5616171815305046026594 (1)](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/daa67ee1-41b9-4346-82cf-211c858e5e1a)
+ <========80%==>
   -  ![Tux svg (1) (1)](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/d9d211da-0b4b-459c-8d82-7ae993d06c94) <========80%==>
   -  ![307313344-f96c88f4-32b5-4767-9037-9fa3848b3889](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/20638427-f764-46a2-954a-1ca05737dfe4) <=========90%=>
 
