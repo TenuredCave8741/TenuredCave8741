@@ -22,8 +22,13 @@
 
 - 🌳 Stuff know about 
   -  ![Python-logo-notext svg](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/cb401f45-a0d1-46a3-90a8-4269396ef632) <====40%======>
+  -  ![Blender_logo_no_text svg](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/07ccb7e4-c9e2-4046-a568-d05911722f12) <=====50%=====>
   -  ![descarga](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/dd7ea405-bbbf-4e21-98eb-45a5a6b4f253) <======70%===>
-  -  
+  -  ![logo-2582747_960_720](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/ea9cd760-1859-4c9a-8bec-42f020a65139) <=======70%===>
+  -  ![Tux svg (1) (1)](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/d9d211da-0b4b-459c-8d82-7ae993d06c94) <========80%==>
+  -  ![descarga (1)](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/f96c88f4-32b5-4767-9037-9fa3848b3889) <=========90%=>
+
+
 
   
 - 🌻 I’m currently learning
