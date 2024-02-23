@@ -1,4 +1,4 @@
-WELCOME TO MY PROFILE
+![Captura_de_pantalla_2024-02-23_114156-removebg-preview](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/f4d37918-53ce-43cb-8f2b-715c80d9d449)
 
 <!--
 **TenuredCave8741/TenuredCave8741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
