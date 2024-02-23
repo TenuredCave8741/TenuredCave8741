@@ -12,7 +12,6 @@
 - 👾 Games i love 
 ![lol-logo](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/dce1d962-396b-421d-bf53-05263c8a9977)
 ![CSGO-Symbol](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/d1a33dca-00ef-4670-9ae3-1281234dd25e)
-![kisspng-grand-theft-auto-v-grand-theft-auto-san-andreas-g-gta-5abe76af47e7d8 8433946015224316632945](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/77db0f40-b038-4207-bf9e-92e7a1aea679)
 ![download](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/96269f86-9c6b-4341-b981-57bafb304d9d)
 ![kisspng-grand-theft-auto-v-grand-theft-auto-san-andreas-g-gta-5abe76af47e7d8 8433946015224316632945-removebg-preview (1)](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/685f8c5f-7795-4bde-8583-ed349056c66b)
 
