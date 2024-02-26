@@ -19,7 +19,7 @@
   
 - 🔭 I’m currently working on 🤫
 
-- 🌳 Stuff know about 
+- 🌳 Stuff i know about 
   -  ![Python-logo-notext svg](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/cb401f45-a0d1-46a3-90a8-4269396ef632) <====40%======>
   -  ![Blender_logo_no_text svg](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/07ccb7e4-c9e2-4046-a568-d05911722f12) <=====50%=====>
   -  ![monochrome_light](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/680ac331-8b9e-4088-bf46-9e4e8bb60461) <=======70%===>
