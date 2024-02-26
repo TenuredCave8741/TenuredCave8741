@@ -33,9 +33,9 @@
   - ![ISO_C++_Logo svg](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/33405ccb-e1fc-4180-8876-587b0f3f7a06)
   - ![download-removebg-preview (1)](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/f4d9835a-7847-43ff-be2e-980d5c589b1a)
 
-- 🌱 Stuff i want to learn
+- 🌱 Stuff i want to learn more about
   - ![Python-logo-notext svg](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/cb401f45-a0d1-46a3-90a8-4269396ef632)
-
+    
 - 📫 How to contact me:
     - ![discord-logo (1) (1)](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/8360b3fc-0e65-4a1b-bd46-72ecffaaf66d) tc841
  
