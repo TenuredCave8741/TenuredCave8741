@@ -35,7 +35,12 @@
 
 - 🌱 Stuff i want to learn more about
   - ![Python-logo-notext svg](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/cb401f45-a0d1-46a3-90a8-4269396ef632)
-  - ![logoimage (1)](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/8b388f6d-c994-4afa-94d7-be75096584d4)
+  - ![unnamed (2)](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/4d51c01b-1933-462e-b6de-66992df231a3)
+
+
+
+
+
 
 
 
