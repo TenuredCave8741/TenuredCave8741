@@ -48,6 +48,7 @@
 - 📫 How to contact me:
     - ![discord-logo (1) (1)](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/8360b3fc-0e65-4a1b-bd46-72ecffaaf66d) tc841
  
+[![TenuredCave8741's GitHub stats](https://github-readme-stats.vercel.app/api?username=TenuredCave8741&show_icons=true&theme=blue-green)](https://github.com/TenuredCave8741/github-readme-stats)
 
 
 <!-- - 😄 Pronouns: -->
