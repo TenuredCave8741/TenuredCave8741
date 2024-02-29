@@ -48,8 +48,12 @@
 - 📫 How to contact me:
     - ![discord-logo (1) (1)](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/8360b3fc-0e65-4a1b-bd46-72ecffaaf66d) tc841
  
-[![TenuredCave8741's GitHub stats](https://github-readme-stats.vercel.app/api?username=TenuredCave8741&show_icons=true&theme=blue-green)](https://github.com/TenuredCave8741/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TenuredCave8741&theme=tokyonight" alt="mystreak"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TenuredCave8741&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ) insertar repositorio -->
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite) insertar repositorio -->
 
 <!-- - 😄 Pronouns: -->
 <!-- - ⚡ Fun fact: ... -->
