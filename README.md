@@ -26,7 +26,7 @@
   -  ![logo-2582747_960_720 (1)](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/aa80f5d0-3c44-4da5-b3c4-ee4daeed890c) <=======70%===>
   -  ![Sin título](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/52622cda-8a9d-4246-8275-b7afb4b9e23b) <========80%==>
   -  ![Tux svg (1) (1)](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/d9d211da-0b4b-459c-8d82-7ae993d06c94) <========80%==>
-  -  ![307313344-f96c88f4-32b5-4767-9037-9fa3848b3889](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/20638427-f764-46a2-954a-1ca05737dfe4) <=========90%=>
+  -  ![307313344-f96c88f4-32b5-4767-9037-9fa3848b3889](https://github.com/TenuredCave8741/TenuredCave8741/assets/105504324/20638427-f764-46a2-954a-1ca05737dfe4) <========80%==>
 
   
 - 🌻 I’m currently learning
